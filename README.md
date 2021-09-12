@@ -1,2 +1,2 @@
 # burkalopolis.github.io
-CivicDutyApp.com website management
+CivicDutyApp.org website management
